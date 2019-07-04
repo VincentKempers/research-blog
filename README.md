@@ -16,7 +16,7 @@ So it should have a...
 ## possibly working with
 
 [x] Reactjs
-[ ] Looking for animation standards...
-[ ] Disney? hmm?
-[ ] CSS animation, after effects framework.
+[x] Looking for animation standards...
+[x] Disney? hmm?
+[x] CSS animation, after effects framework.
 [ ]
