@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './styles/_colors.css';
 // import App from './components/App';
 import Detailpage from './components/Detailpage/Detailpage';
 import * as serviceWorker from './serviceWorker';

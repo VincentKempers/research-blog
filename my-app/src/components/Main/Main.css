@@ -1,0 +1,9 @@
+.mainContent {
+  display: grid;
+  grid-template-columns: 10% auto 10%;
+}
+
+.mainContent > * {
+  grid-column-start: 2;
+  grid-column-end: 2;
+}

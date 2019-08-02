@@ -9,11 +9,6 @@
   box-shadow: 5px -20px 11px 23px rgba(0,0,0,0.21);
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-
 .App-header > ul {
   display: flex;
   flex-direction: row;
@@ -27,8 +22,13 @@
 
 .App-header > ul > li > a {
   text-decoration: none;
+  color: var(--md-light-blue-600);
 }
 
 .App-header > ul > li > a:visited {
-  color: black;
+  color: var(--md-light-blue-600);
+}
+
+.App-header > ul > li > a:hover {
+  color: var(--md-light-blue-900);
 }

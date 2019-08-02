@@ -8,7 +8,7 @@ class Header extends Component {
   render() {
     return (
       <header className="App-header">
-        <ul class="App-header__links">
+        <ul className="App-header__links">
           <li>
             <Link to="/"> Home</Link>
           </li>
