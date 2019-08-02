@@ -19,6 +19,14 @@ class App extends Component {
           >
             Learn react here
           </a>
+          <a
+            className="App-link"
+            href="/Detailpage"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Go to detailpage
+          </a>
         </header>
       </div>
     );
