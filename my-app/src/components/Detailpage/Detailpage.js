@@ -5,11 +5,7 @@ class Detailpage extends Component {
   render() {
     return (
       <div className="Detailpage {{ article.theme }}">
-        <header className="App-header">
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-        </header>
+        <h1>Content</h1>
       </div>
     );
   }
