@@ -50,4 +50,3 @@
   - Probably going to use mongoDB `if needed ofcouse`.
   - need to create an Api to make the calls to.
     - mySQL, Node, expressJS (!)
-
