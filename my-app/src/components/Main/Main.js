@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Switch, Route } from "react-router-dom";
-import Detailpage from "../Detailpage/Detailpage";
+import Articles from "../Articles/Articles";
 import Home from "../Home/Home";
 import About from "../About/About";
 // CSS
@@ -12,7 +12,7 @@ class Main extends Component {
       <div className="mainContent">
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/detailpage" component={Detailpage} />
+          <Route path="/articles" component={Articles} />
           <Route path="/about" component={About} />
         </Switch>
       </div>
