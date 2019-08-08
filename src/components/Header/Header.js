@@ -20,6 +20,11 @@ class Header extends Component {
             <Link to="/About"> About me </Link>
           </li>
         </ul>
+        <ul className="App-header__links">
+          <li><a href="https://twitter.com/vincentkempers">Twitter</a></li>
+          <li><a href="https://github.com/VincentKempers">Github</a></li>
+          <li><a href="mailto::me@vncn.tk">Email</a></li>
+        </ul>
       </header>
     );
   }

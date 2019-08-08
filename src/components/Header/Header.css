@@ -5,15 +5,13 @@
   padding: 0 1rem;
   align-items: center;
   height: 4.5rem;
-  -webkit-box-shadow: 5px -20px 11px 23px rgba(0,0,0,0.21);
-  -moz-box-shadow: 5px -20px 11px 23px rgba(0,0,0,0.21);
-  box-shadow: 5px -20px 11px 23px rgba(0,0,0,0.21);
+  background-color: white;
 }
 
 .App-header > ul {
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
+  justify-content: center;
   list-style: none;
 }
 
@@ -23,13 +21,14 @@
 
 .App-header > ul > li > a {
   text-decoration: none;
-  color: var(--md-light-blue-600);
+  font-weight: 800;
+  color: var(--md-bauhaus--black);
 }
 
 .App-header > ul > li > a:visited {
-  color: var(--md-light-blue-600);
+  color: var(--md-bauhaus--black);
 }
 
 .App-header > ul > li > a:hover {
-  color: var(--md-light-blue-900);
+  color: var(--md-bauhaus--mint-green);
 }
