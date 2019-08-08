@@ -32,3 +32,8 @@
 .App-header > ul > li > a:hover {
   color: var(--md-bauhaus--mint-green);
 }
+
+
+h2 {
+  color: var(--md-bauhaus--red);
+}

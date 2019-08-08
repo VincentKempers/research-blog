@@ -8,7 +8,9 @@ class Header extends Component {
   render() {
     return (
       <header className="App-header">
-        <img src="https://via.placeholder.com/250x60" alt="Logo"/>
+        <div>
+          <h2><span class="red">V</span>inc<span class="green">ent</span><span class="yellow">K</span>empers</h2>
+        </div>
         <ul className="App-header__links">
           <li>
             <Link to="/"> Home</Link>
