@@ -1,0 +1,15 @@
+.About {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+}
+
+.About > h1 {
+  text-align: center;
+}
+
+.About__me > p {
+  max-width: 40em;
+  text-align: left;
+  margin-bottom: 1.3em;
+}
