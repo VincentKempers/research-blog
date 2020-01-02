@@ -24,6 +24,14 @@ class About extends Component {
             Or even GitHub. Well what's the fun in that...
             Plus I can use this created space to actually research things that isn't about development but could be an interesting topic (and I would want to customize the page).
           </p>
+          <div class="About-me__socials">
+            <p>Check me out on the following socials</p>
+            <ul>
+              <li><a href="https://www.instagram.com/vncntk_"><img class="About-socials__icons" src="#" alt="Instagram"/></a></li>
+              <li><a href="https://twitter.com/vincentkempers"><img class="About-socials__icons" src="#" alt="Twitter"/></a></li>
+              <li><a href="https://github.com/VincentKempers"><img class="About-socials__icons" src="#" alt="Github"/></a></li>
+            </ul>
+          </div>
         </div>
       </div>
     );

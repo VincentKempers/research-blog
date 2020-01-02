@@ -3,6 +3,7 @@ import { Switch, Route } from "react-router-dom";
 import Articles from "../Articles/Articles";
 import Home from "../Home/Home";
 import About from "../About/About";
+
 // CSS
 import "./Main.css";
 
