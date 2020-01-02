@@ -29,6 +29,11 @@
   color: var(--md-bauhaus--black);
 }
 
+.App-header > ul > li > a:active {
+  color: var(--md-bauhaus--black);
+  border-bottom: 2px solid var(--md-bauhaus--yellow);
+}
+
 .App-header > ul > li > a:hover {
   color: var(--md-bauhaus--mint-green);
 }
